@@ -37,7 +37,3 @@ Nếu bạn muốn đóng góp cho dự án RetailOnline-Analysis, bạn có th�
 ## Tác giả
 
 Dự án RetailOnline-Analysis được tạo ra bởi dntrieunguyen. Nếu bạn có bất kỳ câu hỏi hoặc đề xuất nào, vui lòng liên hệ tác giả qua email: dntrieunguyen@gmail.com.
-
-## Giấy phép
-
-Dự án RetailOnline-Analysis được phát hành dưới Giấy phép MIT. Bạn có thể sử dụng, sao chép và phân phối mã nguồn của dự án này theo giấy phép này.
