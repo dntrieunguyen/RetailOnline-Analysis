@@ -1,6 +1,6 @@
 # RetailOnline-Analysis
 
-RetailOnline-Analysis là một dự án phân tích dữ liệu trên GitHub, được tạo ra bởi dntrieunguyen. Dự án này nhằm mục đích phân tích các dữ liệu về bán lẻ trực tuyến để hiểu rõ hơn về hành vi mua sắm của khách hàng và tối ưu hóa các chiến lược kinh doanh. Dự án này sử dụng các công cụ và kỹ thuật phân tích dữ liệu để đặt câu hỏi và trả lời các câu hỏi đó bằng cách sử dụng các phương pháp trực quan hóa dữ liệu.
+Dự án này nhằm mục đích phân tích các dữ liệu về bán lẻ trực tuyến để hiểu rõ hơn về hành vi mua sắm của khách hàng và tối ưu hóa các chiến lược kinh doanh. Dự án này sử dụng các công cụ và kỹ thuật phân tích dữ liệu để đặt câu hỏi và trả lời các câu hỏi đó bằng cách sử dụng các phương pháp trực quan hóa dữ liệu.
 
 ## Mục đích
 
@@ -23,8 +23,8 @@ Dự án RetailOnline-Analysis bao gồm các tính năng sau:
 Dự án RetailOnline-Analysis sử dụng các công nghệ sau:
 
 - Ngôn ngữ lập trình Python
-- Các thư viện phân tích dữ liệu như pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Công cụ Jupyter Notebook để trực quan hóa dữ liệu và viết báo cáo
+- Các thư viện phân tích dữ liệu như Pandas, NumPy, Matplotlib, Seaborn
+- Công cụ Jupyter Notebook, Power BI để trực quan hóa dữ liệu và viết báo cáo
 
 ## Cài đặt và Sử dụng
 
